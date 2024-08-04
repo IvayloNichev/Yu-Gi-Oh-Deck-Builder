@@ -1,0 +1,17 @@
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.Properties.Resources.resources
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.csproj.GenerateResource.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.AssemblyInfoInputs.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.AssemblyInfo.cs
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.csproj.CoreCompileInputs.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\bin\Debug\net8.0-windows\Duel.exe
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\bin\Debug\net8.0-windows\Duel.deps.json
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\bin\Debug\net8.0-windows\Duel.runtimeconfig.json
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\bin\Debug\net8.0-windows\Duel.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\bin\Debug\net8.0-windows\Duel.pdb
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\refint\Duel.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.pdb
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.genruntimeconfig.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\ref\Duel.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\Duel\obj\Debug\net8.0-windows\Duel.DuelForm.resources

@@ -1,0 +1,17 @@
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.exe
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.deps.json
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.runtimeconfig.json
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\bin\Debug\net8.0-windows\DeckBuilder.pdb
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.Form1.resources
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.csproj.GenerateResource.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.AssemblyInfoInputs.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.AssemblyInfo.cs
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.csproj.CoreCompileInputs.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\refint\DeckBuilder.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.pdb
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.genruntimeconfig.cache
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\ref\DeckBuilder.dll
+D:\Coding\Yu-Gi-Oh_DeckBuilder\DeckBuilder\obj\Debug\net8.0-windows\DeckBuilder.Properties.Resources.resources

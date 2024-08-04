@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6i18cXNsY7II0bf3CuK2l+QyRwiVEuS4aP0BpM39vXv/PS8zmI9Lg8/Knve0ksOYwo7nPo4rnv3BUXFZnr/5ng==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\Yu-Gi-Oh_DeckBuilder\\CreateDeck\\CreateDeck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivayl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
